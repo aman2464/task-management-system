@@ -1,0 +1,11 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* Ensures the theme transition is smooth */
+div {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
